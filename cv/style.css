@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 50%;
+    box-sizing: inherit;
+    font-size: auto;
+}
+.Photo{
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+  float: left;
+  margin-top: auto;
+}
+
